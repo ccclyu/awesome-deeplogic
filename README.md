@@ -2,6 +2,11 @@
 
 Must-Read Papers or Resources on how to integrate symbolic logic into deep neural nets.
 
-### Semantic Representation
+### Logic as Knowledge Regularization
 
-1. **Representing Meaning with a Combination of Logical and Distributional Models.** *I. Beltagy, Stephen Roller, Pengxiang Cheng, Katrin Erk, Raymond J. Mooney* . Computational linguistics 2016 [[pdf](https://www.aclweb.org/anthology/J16-4007.pdf)] [[code](https://github.com/ibeltagy/rrr)]
+1. **Integrating Deep Learning with Logic Fusion for Information Extraction.** *Wenya Wang, Sinno Jialin Pan*. AAAI 2020 [[pdf](https://arxiv.org/pdf/1912.03041.pdf)] [[code](https://github.com/happywwy/RuleFusionForIE)] 
+
+
+### Related Application (no deep)
+
+1. **Representing Meaning with a Combination of Logical and Distributional Models.** *I. Beltagy, Stephen Roller, Pengxiang Cheng, Katrin Erk, Raymond J. Mooney* . Computational Linguistics 2016 [[pdf](https://www.aclweb.org/anthology/J16-4007.pdf)] [[code](https://github.com/ibeltagy/rrr)]

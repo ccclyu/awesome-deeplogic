@@ -8,6 +8,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 2. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective** *Luis C. Lamb et,al.* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2003.00330.pdf)]
 
+3. **Relational inductive biases, deep learning and graph networks**  *Peter W. Battaglia et,al.* Arxiv 2018 [[pdf](https://arxiv.org/pdf/1806.01261.pdf)]
+
 ### Logic as Knowledge Regularization
 
 1. **Integrating Deep Learning with Logic Fusion for Information Extraction.** *Wenya Wang, Sinno Jialin Pan*. AAAI 2020 [[pdf](https://arxiv.org/pdf/1912.03041.pdf)] [[code](https://github.com/happywwy/RuleFusionForIE)] 

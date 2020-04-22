@@ -16,6 +16,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *Akari Asai, Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)]
 
+3. **Adversarially regularising neural NLI models to integrate logical background knowledge.** *Pasquale Minervini, Sebastian Riedel*. CoNLL 2018 [[pdf](https://www.aclweb.org/anthology/K18-1007.pdf)] [[code](https://github.com/uclnlp/adversarial-nli)]
+
 
 ### Related Application
 

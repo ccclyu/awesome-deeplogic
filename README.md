@@ -18,6 +18,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 3. **Adversarially regularising neural NLI models to integrate logical background knowledge.** *Pasquale Minervini, Sebastian Riedel*. CoNLL 2018 [[pdf](https://www.aclweb.org/anthology/K18-1007.pdf)] [[code](https://github.com/uclnlp/adversarial-nli)]
 
+4. **Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection.** *Ruize Wang, Duyu Tang, et,al* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2004.14201.pdf)] 
+
 
 ### Related Application
 

@@ -20,9 +20,11 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 4. **Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection.** *Ruize Wang, Duyu Tang, et,al* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2004.14201.pdf)]
 
-5. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
+5. **A Logic-Driven Framework for Consistency of Neural Models.** *Tao Li, Vivek Gupta, Maitrey Mehta, Vivek Srikumar* EMNLP-IJCNLP 2019 [[pdf](https://www.aclweb.org/anthology/D19-1405/)] [[code](https://github.com/utahnlp/consistency)]
 
-6. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
+6. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
+
+7. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
 
 ### Incorporate Logic into NN Module
 

@@ -14,7 +14,7 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 1. **Integrating Deep Learning with Logic Fusion for Information Extraction.** *Wenya Wang, Sinno Jialin Pan*. AAAI 2020 [[pdf](https://arxiv.org/pdf/1912.03041.pdf)] [[code](https://github.com/happywwy/RuleFusionForIE)] 
 
-2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *Akari Asai, Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)]
+2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *[Akari Asai](https://akariasai.github.io/), Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)]
 
 3. **Adversarially regularising neural NLI models to integrate logical background knowledge.** *Pasquale Minervini, Sebastian Riedel*. CoNLL 2018 [[pdf](https://www.aclweb.org/anthology/K18-1007.pdf)] [[code](https://github.com/uclnlp/adversarial-nli)]
 
@@ -22,7 +22,7 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 5. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
 
-6. **Structured Tuning for Semantic Role Labeling.** Tao Li, Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
+6. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
 
 ### Incorporate Logic into NN Module
 

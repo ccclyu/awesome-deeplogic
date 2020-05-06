@@ -22,6 +22,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 5. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
 
+6. **Structured Tuning for Semantic Role Labeling.** Tao Li, Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
+
 ### Incorporate Logic into NN Module
 
 

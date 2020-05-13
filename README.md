@@ -16,15 +16,16 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *[Akari Asai](https://akariasai.github.io/), Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)]
 
-3. **Adversarially regularising neural NLI models to integrate logical background knowledge.** *Pasquale Minervini, Sebastian Riedel*. CoNLL 2018 [[pdf](https://www.aclweb.org/anthology/K18-1007.pdf)] [[code](https://github.com/uclnlp/adversarial-nli)]
+3. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
 
 4. **Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection.** *Ruize Wang, Duyu Tang, et,al* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2004.14201.pdf)]
 
 5. **A Logic-Driven Framework for Consistency of Neural Models.** *Tao Li, Vivek Gupta, Maitrey Mehta, Vivek Srikumar* EMNLP-IJCNLP 2019 [[pdf](https://www.aclweb.org/anthology/D19-1405/)] [[code](https://github.com/utahnlp/consistency)]
 
-6. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
+6. **Adversarially regularising neural NLI models to integrate logical background knowledge.** *Pasquale Minervini, Sebastian Riedel*. CoNLL 2018 [[pdf](https://www.aclweb.org/anthology/K18-1007.pdf)] [[code](https://github.com/uclnlp/adversarial-nli)]
 
-7. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
+7. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
+
 
 ### Incorporate Logic into NN Module
 

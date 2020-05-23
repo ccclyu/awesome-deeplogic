@@ -30,6 +30,10 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 ### Incorporate Logic into NN Module
 
 
+### Explainability and Understanding
+
+1. **What Can Neural Networks Reson About?**  *Keyulu Xu, Jingling Li et,al* ICLR 2020 [[pdf](https://arxiv.org/pdf/1905.13211.pdf)] [[code](https://github.com/NNReasoning/What-Can-Neural-Networks-Reason-About)]
+
 
 ### Related Application
 

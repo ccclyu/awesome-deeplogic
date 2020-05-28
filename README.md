@@ -14,7 +14,7 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 1. **Integrating Deep Learning with Logic Fusion for Information Extraction.** *Wenya Wang, Sinno Jialin Pan*. AAAI 2020 [[pdf](https://arxiv.org/pdf/1912.03041.pdf)] [[code](https://github.com/happywwy/RuleFusionForIE)] 
 
-2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *[Akari Asai](https://akariasai.github.io/), Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)]
+2. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *[Akari Asai](https://akariasai.github.io/), Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)] [[code](https://github.com/AkariAsai/logic_guided_qa)]
 
 3. **Structured Tuning for Semantic Role Labeling.** *[Tao Li](https://www.cs.utah.edu/~tli/), Parth Anand Jawale, Martha Palmer, Vivek Srikumar* ACL 2020 [[pdf](https://arxiv.org/pdf/2005.00496.pdf)] [[code](https://github.com/utahnlp/structured_tuning_srl)]
 

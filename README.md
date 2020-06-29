@@ -29,6 +29,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Incorporate Logic into NN Module
 
+1. **Logical Neural Networks** *Ryan Riegel et,al (IBM Research)* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2006.13155.pdf)]
+
 
 ### Explainability and Understanding
 

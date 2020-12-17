@@ -12,6 +12,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Logic as Knowledge Regularization
 
+1. **Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.** *Yichao Zhou, Yu Yan, Rujun Han, J. Harry Caufield,Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang.* AAAI 2021 [[pdf](https://arxiv.org/pdf/2012.08790.pdf)] [[code](https://github.com/yuyanislearning/CTRL-PG)]
+
 1. **Integrating Deep Learning with Logic Fusion for Information Extraction.** *Wenya Wang, Sinno Jialin Pan*. AAAI 2020 [[pdf](https://arxiv.org/pdf/1912.03041.pdf)] [[code](https://github.com/happywwy/RuleFusionForIE)] 
 
 1. **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering.** *[Akari Asai](https://akariasai.github.io/), Hannaneh Hajishirzi*. ACL 2020 [[pdf](https://arxiv.org/pdf/2004.10157.pdf)] [[code](https://github.com/AkariAsai/logic_guided_qa)]

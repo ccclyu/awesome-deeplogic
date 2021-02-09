@@ -4,6 +4,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Survey and Open Challenges
 
+1. **From Machine Learning to Machine Reasoning** *Leon Bottou* Arxiv 2011 [[pdf](https://arxiv.org/abs/1102.1808)]
+
 1. **From Statistical Relational to Neuro-Symbolic Artificial Intelligence** *Luc De Raedt , Sebastijan Dumanˇci ́c , Robin Manhaeve and Giuseppe Marra* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2003.08316.pdf)]
 
 1. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective** *Luis C. Lamb et,al.* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2003.00330.pdf)]

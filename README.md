@@ -35,6 +35,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Incorporate Logic into NN Module
 
+1. **Modeling Content and Context with Deep Relational Learning** *Maria Leonor Pacheco and Dan Goldwasser* TACL 2021 [[pdf]](https://www.aclweb.org/anthology/2021.tacl-1.7.pdf) [[code]](https://gitlab.com/purdueNlp/DRaiL/)
+
 1. **Logical Neural Networks** *Ryan Riegel et,al (IBM Research)* Arxiv 2020 [[pdf](https://arxiv.org/pdf/2006.13155.pdf)]
 
 

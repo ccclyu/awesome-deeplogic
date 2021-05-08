@@ -49,6 +49,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Related Application
 
+1. **Complex Query Answering With Neural Link Predictors** *Erik Arakelyan, Daniel Daza, Pasquale Minervini & Michael Cochez* ICLR 2021 [[pdf](https://openreview.net/pdf?id=Mos9F9kDwkz)] [[code](https://github.com/uclnlp/cqd)]
+
 1. **Correlating neural and symbolic representations of language.** *Grzegorz Chrupała, Afra Alishahi.* ACL 2019 [[pdf](https://www.aclweb.org/anthology/P19-1283.pdf)][[code](https://github.com/gchrupala/ursa)]
 
 1. **Representing Meaning with a Combination of Logical and Distributional Models.** *I. Beltagy, Stephen Roller, Pengxiang Cheng, Katrin Erk, Raymond J. Mooney.* Computational Linguistics 2016 [[pdf](https://www.aclweb.org/anthology/J16-4007.pdf)] [[code](https://github.com/ibeltagy/rrr)]

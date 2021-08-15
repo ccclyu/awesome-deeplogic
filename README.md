@@ -32,6 +32,9 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 1. **Lifted Rule Injection for Relation Embeddings.** *Thomas Demeester, Tim Rocktäschel, Sebastian Riedel* EMNLP 2016 [[pdf](https://www.aclweb.org/anthology/D16-1146.pdf)] 
 
+### Logic as Weak Supervision
+
+1. **Weakly Supervised Named Entity Tagging with Learnable Logical Rules.**  *Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley, Zhe Feng* ACL-IJCNLP 2021 [[pdf](https://aclanthology.org/2021.acl-long.352.pdf)] [[code](https://github.com/JiachengLi1995/TALLOR)] 
 
 ### Incorporate Logic into NN Module
 

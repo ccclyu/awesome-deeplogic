@@ -12,6 +12,12 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 1. **Relational inductive biases, deep learning and graph networks**  *Peter W. Battaglia et,al.* Arxiv 2018 [[pdf](https://arxiv.org/pdf/1806.01261.pdf)]
 
+
+### Tutorials
+
+1. **Neuro-Symbolic Methods For Language And Vision** AAAI 2022 [[link](https://sites.google.com/allenai.org/nsmlv-tutorial-aaai-22)]
+
+
 ### Logic as Knowledge Regularization
 
 1. **Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.** *Yichao Zhou, Yu Yan, Rujun Han, J. Harry Caufield,Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang.* AAAI 2021 [[pdf](https://arxiv.org/pdf/2012.08790.pdf)] [[code](https://github.com/yuyanislearning/CTRL-PG)]

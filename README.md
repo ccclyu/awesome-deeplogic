@@ -40,7 +40,10 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Logic as Weak Supervision
 
+1. **Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference** *Yufei Feng, Xiaoyu Yang, Xiaodan Zhu, Michael Greenspan* TACL 2022 [[pdf](https://arxiv.org/pdf/2203.04857.pdf)]
+
 1. **Weakly Supervised Named Entity Tagging with Learnable Logical Rules.**  *Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley, Zhe Feng* ACL-IJCNLP 2021 [[pdf](https://aclanthology.org/2021.acl-long.352.pdf)] [[code](https://github.com/JiachengLi1995/TALLOR)] 
+
 
 ### Incorporate Logic into NN Module
 

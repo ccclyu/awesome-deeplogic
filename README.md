@@ -54,6 +54,8 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 ### Explainability and Understanding
 
+1. **Transformers Implement First-Order Logic with Majority Quantifiers** *William Merrill, Ashish Sabharwal* Arxiv 2022 [[pdf](https://arxiv.org/abs/2210.02671)]
+
 1. **What Can Neural Networks Reson About?**  *Keyulu Xu, Jingling Li et,al* ICLR 2020 [[pdf](https://arxiv.org/pdf/1905.13211.pdf)] [[code](https://github.com/NNReasoning/What-Can-Neural-Networks-Reason-About)]
 
 1. **Relational Reasoning and Generalization using Non-symbolic Neural Networks** Arxiv 2020 [[pdf](https://arxiv.org/pdf/2006.07968.pdf)]

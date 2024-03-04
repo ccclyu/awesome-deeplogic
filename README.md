@@ -19,6 +19,7 @@ Must-Read Papers or Resources on how to integrate symbolic logic into deep neura
 
 
 ### Logic as Knowledge Regularization
+1. **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic** *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* COLING 2024 [[pdf](https://arxiv.org/abs/2309.13339)] [[code](https://github.com/xf-zhao/LoT)]
 
 1. **Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.** *Yichao Zhou, Yu Yan, Rujun Han, J. Harry Caufield,Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang.* AAAI 2021 [[pdf](https://arxiv.org/pdf/2012.08790.pdf)] [[code](https://github.com/yuyanislearning/CTRL-PG)]
 
